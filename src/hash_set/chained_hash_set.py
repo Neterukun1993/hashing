@@ -2,7 +2,7 @@ import collections
 from typing import List, Iterator, Callable, Hashable
 
 
-class ChainedHashSet(collections.abc.MutableSet[Hashable]):
+class ChainedHashSet(collections.abc.MutableSet):
     count: int
     table: List[List[Hashable]]
 
