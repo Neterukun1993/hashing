@@ -6,7 +6,7 @@ Hashing Data Structures and Algorithms in Python
 - [線形走査法 (Linear probing)](https://github.com/Neterukun1993/hashing/blob/main/src/hash_set/linear_probing_hash_set.py)
 - [Cuckoo hashing](https://github.com/Neterukun1993/hashing/blob/main/src/hash_set/cuckoo_hash_set.py)
 - Coalesced hashing
-- Hopscotch hashing
+- [Hopscotch hashing](https://github.com/Neterukun1993/hashing/blob/main/src/hash_set/hopscotch_hash_set.py)
 - Robin Hood hashing
 - [追加された順序を記憶する hash set](https://github.com/Neterukun1993/hashing/blob/main/src/hash_set/ordered_chained_hash_set.py)
 
